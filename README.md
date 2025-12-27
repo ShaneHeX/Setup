@@ -27,8 +27,18 @@ Run the command below in a macOS Terminal.
 ### Mirror
 If your connection to upstream hosts is slow or unstable, consider using a closer mirror to speed package downloads (for example: [USTC](https://mirrors.ustc.edu.cn/help/brew.git.html)).
 
+## Optimize your Mac
+
+Install [mole](https://github.com/tw93/Mole), a lightweight macOS maintenance tool that helps clean caches, free disk space, and apply safe optimizations. Install via Homebrew:
+
+```sh
+brew install tw93/tap/mole
+```
+
+After installing, run `mole --help` to view available commands and usage information.
+
 ## Other development environment
 
-- [Conda — env/conda/conda.md](env/conda/conda.md)
-- [pip — env/pip/pip.md](env/pip/pip.md)
+- [Conda](env/conda/conda.md)
+- [pip](env/pip/pip.md)
 
