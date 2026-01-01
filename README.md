@@ -37,6 +37,14 @@ brew install tw93/tap/mole
 
 After installing, run `mole --help` to view available commands and usage information.
 
+## Github CLI
+
+Install [GitHub CLI](https://cli.github.com/) brings GitHub to your terminal.
+
+```sh
+brew install gh
+```
+
 ## Other development environment
 
 - [Conda](env/conda/conda.md)
