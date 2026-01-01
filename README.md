@@ -2,7 +2,15 @@
 
 A minimal guide to prepare a development-ready macOS environment. Installing the software below improves productivity and maintainability.
 
-## iTerm utilities
+## Utilities
+
+### iTerm2
+
+iTerm2 brings the terminal into the modern age with features you never knew you always wanted.
+
+```sh
+brew install iterm2
+```
 
 ### Install oh-my-zsh
 
